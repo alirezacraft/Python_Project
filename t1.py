@@ -19,4 +19,5 @@ def my_func(a,b):
 x=int(input('Enter Num 1st:'))
 y=int(input('Enter Num 2nd:'))
 print(my_func(x,y))
+print('END')
     
