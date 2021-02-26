@@ -34,3 +34,4 @@ call_result = partial(call_result, labelResult, number1, number2)
 buttonCal = tk.Button(root, text="Calculate", command=call_result).grid(row=3, column=0)  
   
 root.mainloop()  
+print('End')
